@@ -1,0 +1,18 @@
+#blackFriday{
+    border: 5px solid black;
+    display: flex;
+    height: 35px;
+    width: 100%;
+    justify-content: space-between;
+    align-items: center;
+    padding: 15px;
+    box-sizing: border-box;
+    background-color:black;
+    color:white
+}
+#blackFriday img{
+    width: 20px;
+    filter: invert();
+}
+
+/* Utilizar cores de tom laranja, como a maioria dos sites estão. */
